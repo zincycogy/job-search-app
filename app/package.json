@@ -1,0 +1,21 @@
+{
+  "name": "job-search-api",
+  "version": "1.0.0",
+  "description": "Job search app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/parcel/bin/cli index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeJS, axios, job search"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
